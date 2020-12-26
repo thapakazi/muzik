@@ -1,0 +1,9 @@
+#+TITLE: Musiz - learning music the fun way :D
+#+DATE: Saturday, Dec 26 2020
+
+*** Summary
+    - inspired from this talk: [[https://youtu.be/6avJHaC3C2U?t=2612][The Art of Code - Dylan Beattie]]
+    - and awesome people on internet
+      - [[https://github.com/sonic-pi-net/sonic-pi/][sonic-pi]] : https://sonic-pi.net/
+
+    - No thing promising yet, lets see how much I can learn.    

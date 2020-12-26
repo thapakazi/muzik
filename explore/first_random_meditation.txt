@@ -1,0 +1,14 @@
+# Welcome to Sonic Pi
+
+live_loop :hello do
+  sample :elec_chime, amp: 0.5, pan: 0, rate: 3
+  sleep 1
+  play 48
+  sample :ambi_glass_hum, amp: 0.4
+  sleep 1
+  ##| sample :elec_chime, amp: 1, pan: -1, rate: 2
+  sleep 1
+  sample :perc_bell, amp: 0.5
+  play 36
+  sleep 1
+end
